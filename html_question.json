@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Que signifie HTML ?",
+        "answer_1": "HomeTabulation of Mailing List",
+        "answer_2": "HyperText Markup Language",
+        "answer_3": "Hyperspace TradeMark Language",
+        "right_answer": "HyperText Markup Language"
+
+
+    },    
+    {
+        "title": "À quoi sert HTML ?",
+        "answer_1": "À mettre en forme des pages web",
+        "answer_2": " À structurer du contenu dans une page web",
+        "answer_3": " À créer des pages dynamiques",
+        "right_answer": "À structurer du contenu dans une page web"
+    },
+    {
+        "title": "Comment représenter un paragraphe en HTML ?",
+        "answer_1": "<ul>",
+        "answer_2": " <li>",
+        "answer_3": " <p>",
+        "right_answer": " <p>"
+    },
+    {
+        "title": "Comment représenter une liste en HTML",
+        "answer_1": "<ul>",
+        "answer_2": " <li>",
+        "answer_3": " <div>",
+        "right_answer": " <li>"
+    },
+    {
+        "title": "Trouvez l'intrus dans cette liste",
+        "answer_1": "<ul>",
+        "answer_2": " <li>",
+        "answer_3": "<img>",
+        "right_answer": " <img>"
+    },
+    {
+        "title": "Citez un attribut HTML lié aux images",
+        "answer_1": "class",
+        "answer_2": "src",
+        "answer_3": "data",
+        "right_answer": "src"
+    },
+    {
+        "title":"Quel attribut permet d'indiquer la destination d'un lien ?",
+        "answer_1": "class",
+        "answer_2": "src",
+        "answer_3": "href",
+        "answer_4": "link",
+        "right_answer": "href"
+    }
+]
